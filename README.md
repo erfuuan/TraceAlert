@@ -1,10 +1,10 @@
-# TraceAlert
+# FalconEye
 
-![TraceAlert Logo](./assets/logo.png)
+![FalconEye Logo](./assets/logo.png)
 
 ## Overview
 
-**TraceAlert** is a cutting-edge, real-time alert and tracking system designed to provide immediate notifications to security agencies and trusted contacts in cases of kidnapping, abduction, or emergency situations. Using advanced location tracking, intelligent monitoring, and instant communication protocols, TraceAlert ensures rapid response and enhances personal safety.
+**FalconEye** is a cutting-edge, real-time alert and tracking system designed to provide immediate notifications to security agencies and trusted contacts in cases of kidnapping, abduction, or emergency situations. Using advanced location tracking, intelligent monitoring, and instant communication protocols, FalconEye ensures rapid response and enhances personal safety.
 
 ---
 
@@ -24,7 +24,7 @@
 
 1. **User Registration:** Users create a secure profile and define trusted contacts and emergency agencies.
 2. **Continuous Monitoring:** The app tracks location and behavior patterns in real-time.
-3. **Alert Triggers:** When predefined danger conditions or manual alerts occur, TraceAlert immediately sends notifications.
+3. **Alert Triggers:** When predefined danger conditions or manual alerts occur, FalconEye immediately sends notifications.
 4. **Response Coordination:** Alerts include location details, user status, and timestamp to facilitate quick intervention.
 5. **History & Reports:** Users and agencies can access incident history and reports for analysis and improvement.
 
@@ -41,6 +41,6 @@
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/TraceAlert.git
-cd TraceAlert
+git clone https://github.com/yourusername/FalconEye.git
+cd FalconEye
 
